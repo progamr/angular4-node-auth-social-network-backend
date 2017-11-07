@@ -1,0 +1,26 @@
+{
+  "name": "social-network-nodejs-backend",
+  "version": "1.0.0",
+  "description": "a backend API for social network focused on authentication and authorization implementations using node, expressjs and mongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "auth",
+    "node",
+    "expressjs",
+    "mongodb"
+  ],
+  "author": "Amr Mohamed <prog.amr2014@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.0.39"
+  }
+}
